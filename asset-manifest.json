@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://md-asharuddin-90.github.io/csb-66d8fl/static/css/main.bbeacd24.css",
+    "main.js": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/main.8550720e.js",
+    "static/js/703.c81cbc88.chunk.js": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/703.c81cbc88.chunk.js",
+    "static/js/760.fe0a9ec4.chunk.js": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/760.fe0a9ec4.chunk.js",
+    "static/js/787.71348460.chunk.js": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/787.71348460.chunk.js",
+    "index.html": "https://md-asharuddin-90.github.io/csb-66d8fl/index.html",
+    "main.bbeacd24.css.map": "https://md-asharuddin-90.github.io/csb-66d8fl/static/css/main.bbeacd24.css.map",
+    "main.8550720e.js.map": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/main.8550720e.js.map",
+    "703.c81cbc88.chunk.js.map": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/703.c81cbc88.chunk.js.map",
+    "760.fe0a9ec4.chunk.js.map": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/760.fe0a9ec4.chunk.js.map",
+    "787.71348460.chunk.js.map": "https://md-asharuddin-90.github.io/csb-66d8fl/static/js/787.71348460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbeacd24.css",
+    "static/js/main.8550720e.js"
+  ]
+}
